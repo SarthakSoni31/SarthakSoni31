@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Sarthak 👋  
 
-<!--
-**SarthakSoni31/SarthakSoni31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BTech CSE Student | Full-Stack Developer | Data Engineering Enthusiast**  
 
-Here are some ideas to get you started:
+I love building modern web apps, working with data, and learning new technologies by building projects. Currently focused on **Data Engineering** and **scalable full-stack applications**.  
+- Building projects in **Node.js, Express, Next.js, and MongoDB**   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 **Tech Skills**
+
+#### **Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+- Bootstrap, Tailwind CSS  
+
+#### **Backend**
+- Node.js, Express.js
+- REST APIs, Authentication (JWT/OTP)
+- MongoDB (Mongoose), MySQL  
+
+---
+
+### 🎯 **Interests**
+- Full-Stack Development  
+- Data Engineering & Big Data  
+- UI/UX improvements
+
+---
+
+⭐️ *Always learning and building! Check out my pinned projects below.*  
