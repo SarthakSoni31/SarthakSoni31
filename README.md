@@ -28,4 +28,4 @@ Building projects in **Node.js, Express, Next.js, and MongoDB**
 
 ---
 
-⭐️ *Always learning and building! Check out my pinned projects below.*  
+*Always learning and building! Check out my pinned projects below.*  
