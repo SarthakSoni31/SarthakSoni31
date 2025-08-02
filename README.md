@@ -1,6 +1,6 @@
 # Hi there, I'm Sarthak 👋  
 
-🚀 BTech CSE Student | Full-Stack Developer | Data Engineering Enthusiast**  
+🚀 BTech CSE Student | Full-Stack Developer 
 
 I love building modern web apps, working with data, and learning new technologies by building projects. Currently focused on **Data Engineering** and **scalable full-stack applications**.  
 Building projects in **Node.js, Express, Next.js, and MongoDB**   
